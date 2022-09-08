@@ -17,3 +17,11 @@ Class Load: **6Hrs./ Week (Theory: 3Hrs, Practical: 3Hrs.)**
 ## Table of Contents
 
 - [Syllabus](./syllabus.md)
+
+- [Lab Report](./Lab/README.md)
+
+### Technologies Used
+
+![CSharp](https://img.shields.io/badge/CSharp-FF0000?style=for-the-badge&logo=csharp&logoColor=fff)
+
+![VSCode](https://img.shields.io/badge/VSCode-FF7F00?style=for-the-badge&logo=visual-studio-code)
